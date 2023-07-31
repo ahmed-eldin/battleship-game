@@ -1,6 +1,5 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<img width="1062" alt="Screenshot 2023-07-31 at 4 41 25 PM" src="https://github.com/ahmed-eldin/battleship-game/assets/111728755/5316747c-aa51-48d9-9f85-b41281940015">
 
 # JavaScript Battleship Game
 
